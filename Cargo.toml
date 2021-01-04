@@ -5,6 +5,7 @@ authors = ["Jonathan Pallant <github@thejpster.org.uk>"]
 edition = "2018"
 description = "PAC for NXP Kinetis MKE04Z4 and MKE04Z8 microcontrollers"
 license = "CC0"
+repository="https://github.com/thejpster/ke04z4-pac"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
